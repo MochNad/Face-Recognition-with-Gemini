@@ -1,0 +1,7 @@
+{
+  "name": "Facial Recognition Class System",
+  "description": "A system to manage classes of people, add reference photos for each person, and use AI-powered facial recognition to check a captured face against the members of a class.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
